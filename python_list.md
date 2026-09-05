@@ -199,4 +199,4 @@ tuple
 ##  对于for循环
 得理解一个  range
 range(开始位置, 结束位置, 步长)
-然后就是关于for 循环的逆序输出for i in range(num-1,-1,-1)
+然后就是关于for 循环的逆序输出'for i in range(num-1,-1,-1)'
